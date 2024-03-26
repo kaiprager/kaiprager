@@ -7,9 +7,9 @@
 
 - 💬 Ask me about **anything**
 
-<p align="center">I'm a dynamic and adaptable professional transitioning into the multifaceted world of software development. With a background in PR and web design, I bring exceptional social skills, empathy, and commitment to every project. I thrive in fast-paced environments and have a knack for quick learning.</p>
+<p>I'm a dynamic and adaptable professional transitioning into the multifaceted world of software development. With a background in PR and web design, I bring exceptional social skills, empathy, and commitment to every project. I thrive in fast-paced environments and have a knack for quick learning.</p>
 
-<p align="center">Currently, I'm diving deep into a more-than-one-year Java training program with DCI, clocking in a total of 1800 hours of remote classes. My focus is on mastering an array of topics:</p>
+<p>Currently, I'm diving deep into a more-than-one-year Java training program with DCI, clocking in a total of 1800 hours of remote classes. My focus is on mastering an array of topics:</p>
 
 <ul align="center">
   <li><b>Java 21:</b> JVM | TDD | JUnit</li>
