@@ -7,6 +7,26 @@
 
 - 💬 Ask me about **anything**
 
+<p align="center">I'm a dynamic and adaptable professional transitioning into the multifaceted world of software development. With a background in PR and web design, I bring exceptional social skills, empathy, and commitment to every project. I thrive in fast-paced environments and have a knack for quick learning.</p>
+
+<p align="center">Currently, I'm diving deep into a more-than-one-year Java training program with DCI, clocking in a total of 1800 hours of remote classes. My focus is on mastering an array of topics:</p>
+
+<ul align="center">
+  <li><b>Java 21:</b> JVM | TDD | JUnit</li>
+  <li><b>Object-Oriented Programming:</b> Polymorphism | Inheritance | Encapsulation</li>
+  <li><b>Functional Programming:</b> Lambda Expressions</li>
+  <li><b>Data Structures:</b> Array | List | Set | Map</li>
+  <li><b>Concurrency:</b> Thread Pools | Synchronizers | Multithreading | Synchronize Blocks | Volatile variables</li>
+  <li><b>Streams & Module System:</b> Localization</li>
+  <li><b>Build Tools:</b> Maven | Graven</li>
+  <li><b>IDE:</b> Eclipse | Intellij Community | Intellij Ultimate</li>
+  <li><b>Database:</b> SQL | MySQL | PostgreSQL | JDBC</li>
+  <li><b>Spring Framework:</b> Core | Boot | DATA JPA | ORM | Hibernate | SpringWeb | Security | Test</li>
+  <li><b>API Development:</b> Consume Create | Spring Rest | Postman | OpenAPI | Swagger</li>
+  <li><b>Cloud Computing:</b> AWS | EC2 | RDS | S3 | GCP | AppEngine | BigQuery | Cloud Storage</li>
+  <li><b>Agile Methodology:</b> Scrum</li>
+</ul>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kai-prager" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kai-prager" height="30" width="40" /></a>
