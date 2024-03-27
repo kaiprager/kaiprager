@@ -17,7 +17,6 @@
   <li><b>Functional Programming:</b> Lambda Expressions</li>
   <li><b>Data Structures:</b> Array | List | Set | Map</li>
   <li><b>Concurrency:</b> Thread Pools | Synchronizers | Multithreading | Synchronize Blocks | Volatile variables</li>
-  <li><b>Streams & Module System:</b> Localization</li>
   <li><b>Build Tools:</b> Maven | Gradle</li>
   <li><b>IDE:</b> Eclipse | Intellij Community | Intellij Ultimate</li>
   <li><b>Database:</b> SQL | MySQL | PostgreSQL | JDBC</li>
