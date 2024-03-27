@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kai</h1>
-<h3 align="center">Java Developer from Frankfurt, Germany</h3>
+<h3 align="center">Java Developer in Frankfurt, Germany</h3>
 
 - 🔭 I’m currently working on **becoming a Java Pro**
 
